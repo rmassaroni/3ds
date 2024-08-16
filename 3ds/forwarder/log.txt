@@ -1,0 +1,78 @@
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Pokemon - HeartGold Version (USA).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Pokemon - HeartGold Version (USA).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Pokemon - HeartGold Version (USA).bmp
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/6149 - Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/6149 - Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/6149 - Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) [b].bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Pokemon - SoulSilver Version (USA, Australia).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Pokemon - SoulSilver Version (USA, Australia).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Pokemon - SoulSilver Version (USA, Australia).bmp
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/1016 - Pokemon - Pearl Version (USA) (Rev 5).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/1016 - Pokemon - Pearl Version (USA) (Rev 5).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/1016 - Pokemon - Pearl Version (USA) (Rev 5).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/1284 - Pokemon - Diamond Version (Europe) (Rev 13).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/1284 - Pokemon - Diamond Version (Europe) (Rev 13).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/1284 - Pokemon - Diamond Version (Europe) (Rev 13).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/3797 - Pokemon - Platinum Version (Europe) (Rev 10).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/3797 - Pokemon - Platinum Version (Europe) (Rev 10).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/3797 - Pokemon - Platinum Version (Europe) (Rev 10).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/5584 - Pokemon - White Version (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/5584 - Pokemon - White Version (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/5584 - Pokemon - White Version (USA, Europe) (NDSi Enhanced) [b].bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Pokemon White 2 (Experience + Trade Evolution Patched).bmp
+error: [Builder]Invalid banner CRC 3
+error: [Builder]Failed to create forwarder.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Pokemon White 2 (Experience + Trade Evolution Patched).bmp
+error: [Builder]Invalid banner CRC 3
+error: [Builder]Failed to create forwarder.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Pokemon White 2 (Experience + Trade Evolution Patched).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Pokemon White 2 (Experience + Trade Evolution Patched).bmp
+error: [Builder]Invalid banner CRC 3
+error: [Builder]Failed to create forwarder.
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/4273 - Pokemon Mystery Dungeon - Explorers of Sky (USA).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/4273 - Pokemon Mystery Dungeon - Explorers of Sky (USA).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/4273 - Pokemon Mystery Dungeon - Explorers of Sky (USA).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/6150 - Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/6150 - Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) [b].bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/6150 - Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) [b].bmp

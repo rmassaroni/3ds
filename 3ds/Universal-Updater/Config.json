@@ -1,0 +1,21 @@
+{
+	"Active_Theme": "Default",
+	"Archive_Path": "sdmc:",
+	"AutoUpdate": true,
+	"CustomFont": false,
+	"Display_Changelog": false,
+	"Firm_Path": "sdmc:/luma/payloads",
+	"Language": "en",
+	"LastStore": "universal-db.unistore",
+	"List": false,
+	"MetaData": false,
+	"NDS_Path": "sdmc:",
+	"Prompt": true,
+	"Shortcut_Path": "sdmc:/3ds/Universal-Updater/shortcuts",
+	"UpdateCheck": true,
+	"UpdateNightly": false,
+	"UseBG": false,
+	"Version": 1,
+	"_3DSX_InFolder": false,
+	"_3DSX_Path": "sdmc:/3ds"
+}

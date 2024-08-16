@@ -1,0 +1,28 @@
+[2024-08-09 19:24:07] [ INFO] Checkpoint loading started...
+[2024-08-09 19:24:07] [ INFO] Checkpoint loading finished!
+[2024-08-15 17:54:05] [ INFO] Checkpoint loading started...
+[2024-08-15 17:54:05] [ INFO] Checkpoint loading finished!
+[2024-08-15 17:54:27] [ INFO] Found JEDEC: 0x0000000000000FFF
+[2024-08-15 17:54:27] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-15 17:54:27] [ INFO] JEDEC ID not documented yet!
+[2024-08-15 17:54:27] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-15 18:10:38] [ INFO] Checkpoint loading started...
+[2024-08-15 18:10:38] [ INFO] Checkpoint loading finished!
+[2024-08-15 18:10:43] [ INFO] Found JEDEC: 0x0000000000001FFF
+[2024-08-15 18:10:43] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-15 18:10:43] [ INFO] JEDEC ID not documented yet!
+[2024-08-15 18:10:43] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-15 18:46:36] [ INFO] Checkpoint loading started...
+[2024-08-15 18:46:36] [ INFO] Checkpoint loading finished!
+[2024-08-15 18:46:41] [ INFO] Found JEDEC: 0x0000000000001FFF
+[2024-08-15 18:46:41] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-15 18:46:41] [ INFO] JEDEC ID not documented yet!
+[2024-08-15 18:46:41] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-15 18:47:37] [ INFO] Found JEDEC: 0x0000000000000FFF
+[2024-08-15 18:47:37] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-15 18:47:37] [ INFO] JEDEC ID not documented yet!
+[2024-08-15 18:47:37] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-15 18:48:40] [ INFO] Found JEDEC: 0x0000000000FFFFFF
+[2024-08-15 18:48:40] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-15 18:48:40] [ INFO] JEDEC ID not documented yet!
+[2024-08-15 18:48:40] [ INFO] CardType (after the maxTries loop): 0000000000000009
