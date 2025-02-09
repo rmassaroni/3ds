@@ -19,3 +19,10 @@
 ### .nds
 - place in roms/nds
 - twilight menu
+
+### TODO
+- https://youtu.be/93a2lBmeMxw?si=cpdTghDQBxSv5Zoh
+- input redirection
+- make sure screenshots and screen capture work
+- widgets/overlays for time and FPS
+- luma clockspeed
