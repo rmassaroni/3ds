@@ -29,6 +29,7 @@
 - add more instructions to readme
 - prioritize uploading save files and other irreplaceable items
 - figure out how to handle .Trash-1000
+- automatically turn off the zap plugin zap-prompt when entering d drive
 
 
 # Games to get
