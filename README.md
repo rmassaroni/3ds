@@ -28,6 +28,8 @@
 - luma clockspeed
 - add more instructions to readme
 - prioritize uploading save files and other irreplaceable items
+- figure out how to handle .Trash-1000
+
 
 # Games to get
 -
