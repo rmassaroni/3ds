@@ -14,3 +14,8 @@
 - 2: restart 3ds device while holding start and power button, this will open godmode, locate file and press r+a (The 3ds will have to be homebrewed)
 - 3: proceed to "build cia from file"
 - 4: The .cia will transfer to the gm9/out folder where you will install it using fbi by pressing install and delete
+
+
+### .nds
+- place in roms/nds
+- twilight menu
