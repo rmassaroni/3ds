@@ -26,3 +26,8 @@
 - make sure screenshots and screen capture work
 - widgets/overlays for time and FPS
 - luma clockspeed
+- add more instructions to readme
+- prioritize uploading save files and other irreplaceable items
+
+# Games to get
+-
