@@ -27,7 +27,7 @@
 - widgets/overlays for time and FPS
 - luma clockspeed
 - add more instructions to readme
-- prioritize uploading save files and other irreplaceable items
+- prioritize uploading save files, images, and other irreplaceable items
 - figure out how to handle .Trash-1000
 - automatically turn off the zap plugin zap-prompt when entering d drive
 
