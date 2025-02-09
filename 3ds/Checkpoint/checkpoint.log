@@ -26,3 +26,22 @@
 [2024-08-15 18:48:40] [ INFO] CardType (While inside maxTries loop): 0000000000000009
 [2024-08-15 18:48:40] [ INFO] JEDEC ID not documented yet!
 [2024-08-15 18:48:40] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-18 21:09:09] [ INFO] Checkpoint loading started...
+[2024-08-18 21:09:09] [ INFO] Checkpoint loading finished!
+[2024-08-18 21:09:20] [ INFO] Found JEDEC: 0x0000000000FFFFFF
+[2024-08-18 21:09:20] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-18 21:09:20] [ INFO] JEDEC ID not documented yet!
+[2024-08-18 21:09:20] [ INFO] CardType (after the maxTries loop): 0000000000000001
+[2024-08-18 21:09:20] [ INFO] Type: 1
+[2024-08-18 21:09:36] [ INFO] Found JEDEC: 0x0000000000001FFF
+[2024-08-18 21:09:36] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-18 21:09:36] [ INFO] JEDEC ID not documented yet!
+[2024-08-18 21:09:36] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-19 15:27:59] [ INFO] Checkpoint loading started...
+[2024-08-19 15:27:59] [ INFO] Checkpoint loading finished!
+[2024-08-19 15:28:03] [ INFO] Found JEDEC: 0x0000000000001FFF
+[2024-08-19 15:28:03] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2024-08-19 15:28:03] [ INFO] JEDEC ID not documented yet!
+[2024-08-19 15:28:03] [ INFO] CardType (after the maxTries loop): 0000000000000009
+[2024-08-19 15:28:45] [ INFO] Started backup of PKSM. Title id: 0x0EC10000.
+[2024-08-19 15:28:57] [ INFO] Backup succeeded.
