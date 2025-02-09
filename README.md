@@ -30,6 +30,7 @@
 - prioritize uploading save files, images, and other irreplaceable items
 - figure out how to handle .Trash-1000
 - automatically turn off the zap plugin zap-prompt when entering d drive
+- gpush script that checks files sizes and only commits files that are small enough
 
 
 ### Games to get
