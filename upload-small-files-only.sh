@@ -1,6 +1,6 @@
 #!/bin/bash
 
-MAX_SIZE=50000000  # 50MB in bytes
+MAX_SIZE=100000000  # 100MB in bytes
 
 # Find files that are small enough
 # small_files=$(find . -type f -size -"$MAX_SIZE"c ! -path "./.git/*")
