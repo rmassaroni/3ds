@@ -45,3 +45,9 @@
 [2024-08-19 15:28:03] [ INFO] CardType (after the maxTries loop): 0000000000000009
 [2024-08-19 15:28:45] [ INFO] Started backup of PKSM. Title id: 0x0EC10000.
 [2024-08-19 15:28:57] [ INFO] Backup succeeded.
+[2025-03-05 00:47:42] [ INFO] Checkpoint loading started...
+[2025-03-05 00:47:42] [ INFO] Checkpoint loading finished!
+[2025-03-05 00:48:02] [ INFO] Found JEDEC: 0x0000000000000FFF
+[2025-03-05 00:48:02] [ INFO] CardType (While inside maxTries loop): 0000000000000009
+[2025-03-05 00:48:02] [ INFO] JEDEC ID not documented yet!
+[2025-03-05 00:48:02] [ INFO] CardType (after the maxTries loop): 0000000000000009

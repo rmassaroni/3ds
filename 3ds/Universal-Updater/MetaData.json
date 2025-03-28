@@ -1,10 +1,34 @@
 {
 	"Universal-DB": {
+		"Breaking Bad DS": {
+			"installed": [
+				"breaking-bad-ds.nds"
+			],
+			"updated": "2023-11-23 at 18:49 (UTC)"
+		},
+		"ChatGPT3DS": {
+			"installed": [
+				"ChatGPT3DS.3dsx"
+			],
+			"updated": "2023-03-17 at 23:58 (UTC)"
+		},
+		"FourthTube": {
+			"installed": [
+				"FourthTube.cia"
+			],
+			"updated": "2025-02-03 at 01:45 (UTC)"
+		},
 		"TWiLight Menu++": {
 			"installed": [
 				"TWiLight Menu++"
 			],
 			"updated": "2024-08-02 at 15:34 (UTC)"
+		},
+		"Wordle DS": {
+			"installed": [
+				"WordleDS.cia"
+			],
+			"updated": "2024-11-12 at 16:03 (UTC)"
 		},
 		"ndsForwarder": {
 			"installed": [

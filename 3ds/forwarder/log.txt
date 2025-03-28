@@ -92,3 +92,37 @@ info: [Builder]sdcard not found. Using built in template.
 info: [Builder]looking for banner at /roms/nds/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es).bin
 info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es).bin
 info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/LEGO Star Wars III - The Clone Wars (USA) (En,Fr,Es).bmp
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/LEGO Star Wars - The Complete Saga (USA).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/LEGO Star Wars - The Complete Saga (USA).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/LEGO Star Wars - The Complete Saga (USA).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/LEGO Star Wars II - The Original Trilogy (USA) (Rev 1).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/LEGO Star Wars II - The Original Trilogy (USA) (Rev 1).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/LEGO Star Wars II - The Original Trilogy (USA) (Rev 1).bmp
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/Grand Theft Auto - Chinatown Wars (USA) (En,Fr,De,Es,It).bmp
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /roms/nds/LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/LEGO Pirates of the Caribbean - The Video Game (USA) (En,Fr,Es).bmp
+info: [Config]Found sdcard.fwd on romfs
+info: [Config]Checking SD for templates
+info: [Config]deduplicating
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]sdcard not found. Using built in template.
+info: [Builder]looking for banner at /breaking-bad-ds.bin
+info: [Builder]looking for banner at sdmc:/3ds/forwarder/banners/breaking-bad-ds.bin
+info: [Builder]looking for custom bmp icon at sdmc:/3ds/forwarder/icons/breaking-bad-ds.bmp

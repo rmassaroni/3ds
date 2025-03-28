@@ -1,0 +1,64 @@
+{
+  "alphaChannel": false,
+  "apiUrl": "",
+  "autoBackup": true,
+  "autoUpdate": true,
+  "defaults": {
+    "date": {
+      "day": 1,
+      "month": 1,
+      "year": 2000
+    }
+  },
+  "extraSaves": {
+    "0x01710": [],
+    "ADAE": [
+      "/roms/nds/saves/1284 - Pokemon - Diamond Version (Europe) (Rev 13).sav"
+    ],
+    "APAE": [
+      "/roms/nds/saves/1016 - Pokemon - Pearl Version (USA) (Rev 5).sav"
+    ],
+    "CPUE": [
+      "/roms/nds/saves/3797 - Pokemon - Platinum Version (Europe) (Rev 10).sav"
+    ],
+    "IRAE": [
+      "/roms/nds/5584 - Pokemon - White Version (USA, Europe) (NDSi Enhanced) [b].nds"
+    ]
+  },
+  "language": 2,
+  "patronCode": "",
+  "randomMusic": false,
+  "showBackups": false,
+  "titles": {
+    "1": "0x100",
+    "2": "0x200",
+    "24": "0x0004000000055D00",
+    "25": "0x0004000000055E00",
+    "26": "0x000400000011C500",
+    "27": "0x000400000011C400",
+    "3": "0x300",
+    "30": "0x0004000000164800",
+    "31": "0x0004000000175E00",
+    "32": "0x00040000001B5000",
+    "33": "0x00040000001B5100",
+    "35": "0x0004000000171000",
+    "36": "0x0004000000170D00",
+    "37": "0x0004000000171100",
+    "38": "0x0004000000171200",
+    "39": "0x0004000000172600",
+    "4": "0x400",
+    "40": "0x0004000000172700",
+    "41": "0x0004000000172800",
+    "42": "0x600",
+    "43": "0x700",
+    "44": "0x800",
+    "45": "0x900",
+    "5": "0x500"
+  },
+  "transferEdit": true,
+  "useApiUrl": false,
+  "useExtData": true,
+  "useSaveInfo": true,
+  "version": 12,
+  "writeFileSave": false
+}
